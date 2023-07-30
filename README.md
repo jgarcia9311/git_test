@@ -1,2 +1,2 @@
 # git_test
-Thisi is not my first GitHub repo!
+This is not my first GitHub repo!
